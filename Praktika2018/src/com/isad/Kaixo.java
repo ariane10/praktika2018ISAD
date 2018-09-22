@@ -1,4 +1,4 @@
-package paketea;
+package com.isad;
 
 public class Kaixo {
 	
